@@ -1,0 +1,22 @@
+{
+  "name": "openai-examples-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammurat/openai-examples-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rammurat/openai-examples-node/issues"
+  },
+  "homepage": "https://github.com/rammurat/openai-examples-node#readme",
+  "dependencies": {
+    "openai": "^4.51.0"
+  }
+}

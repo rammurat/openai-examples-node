@@ -1,0 +1,5 @@
+*.env
+env
+processed
+text
+**/node_modules/
