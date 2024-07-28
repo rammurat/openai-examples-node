@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rammurat/openai-examples-node#readme",
   "dependencies": {
-    "openai": "^4.51.0"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.53.2"
   }
 }
